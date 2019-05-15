@@ -1,0 +1,17 @@
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\libhostpolicy.so
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\libhostfxr.so
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\app
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\app.deps.json
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\app.runtimeconfig.json
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\app.runtimeconfig.dev.json
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\app.dll
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\app.pdb
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\rpi_ws281x.dll
+C:\Users\feoku\Development\dotnet.ws2812\app\bin\Debug\netcoreapp2.1\linux-arm\rpi_ws281x.pdb
+C:\Users\feoku\Development\dotnet.ws2812\app\obj\Debug\netcoreapp2.1\linux-arm\app.csprojAssemblyReference.cache
+C:\Users\feoku\Development\dotnet.ws2812\app\obj\Debug\netcoreapp2.1\linux-arm\app.csproj.CoreCompileInputs.cache
+C:\Users\feoku\Development\dotnet.ws2812\app\obj\Debug\netcoreapp2.1\linux-arm\app.AssemblyInfoInputs.cache
+C:\Users\feoku\Development\dotnet.ws2812\app\obj\Debug\netcoreapp2.1\linux-arm\app.AssemblyInfo.cs
+C:\Users\feoku\Development\dotnet.ws2812\app\obj\Debug\netcoreapp2.1\linux-arm\app.csproj.CopyComplete
+C:\Users\feoku\Development\dotnet.ws2812\app\obj\Debug\netcoreapp2.1\linux-arm\app.dll
+C:\Users\feoku\Development\dotnet.ws2812\app\obj\Debug\netcoreapp2.1\linux-arm\app.pdb

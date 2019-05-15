@@ -1,0 +1,54 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "shell",
+            "args": [
+                "build",
+                "${workspaceFolder}/dotnet.ws2812.sln"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "shell",
+            "dependsOn": "build",
+            "args": [
+                "publish",
+                "${workspaceFolder}/app/app.csproj",
+                "-r",
+                "linux-arm"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "deploy library",
+            "command": "pscp",
+            "type": "shell",
+            "dependsOn": "publish",
+            "args": [
+                "-pw",
+                "pi",
+                "-r",
+                "${workspaceFolder}/rpi_ws281x/bin/Debug/netstandard2.0/*",
+                "pi@10.237.1.144:/home/pi/dotnet.ws2812"
+            ]
+        },
+        {
+            "label": "deploy",
+            "command": "pscp",
+            "type": "shell",
+            "dependsOn": "deploy library",
+            "args": [
+                "-pw",
+                "pi",
+                "-r",
+                "${workspaceFolder}/app/bin/Debug/netcoreapp2.1/linux-arm/publish/app*",
+                "pi@10.237.1.144:/home/pi/dotnet.ws2812"
+            ]
+        }
+    ]
+}
