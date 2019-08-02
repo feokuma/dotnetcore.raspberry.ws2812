@@ -2185,11 +2185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\app\\app.csproj",
+      "projectPath": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\app\\app.csproj",
       "packagesPath": "C:\\Users\\feoku\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\app\\obj\\",
+      "outputPath": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -2210,8 +2210,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj": {
-              "projectPath": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj"
+            "C:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj": {
+              "projectPath": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj"
             }
           }
         }

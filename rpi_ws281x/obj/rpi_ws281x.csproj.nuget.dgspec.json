@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj": {}
+    "C:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj": {}
   },
   "projects": {
-    "c:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj": {
+    "C:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj",
+        "projectUniqueName": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj",
         "projectName": "rpi_ws281x",
-        "projectPath": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj",
+        "projectPath": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\rpi_ws281x.csproj",
         "packagesPath": "C:\\Users\\feoku\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\obj\\",
+        "outputPath": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\rpi_ws281x\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\test.csproj": {}
+    "C:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\test.csproj": {}
   },
   "projects": {
-    "c:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\test.csproj": {
+    "C:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\test.csproj",
+        "projectPath": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\test.csproj",
         "packagesPath": "C:\\Users\\feoku\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\obj\\",
+        "outputPath": "C:\\Users\\feoku\\Development\\dotnet.ws2812\\test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -48,7 +48,6 @@
               "version": "[15.9.0, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
